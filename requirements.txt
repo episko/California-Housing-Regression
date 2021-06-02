@@ -1,0 +1,7 @@
+python>=3.6
+jupyterlab
+matplotlib
+pandas
+scikit-learn
+seaborn
+tensorflow
